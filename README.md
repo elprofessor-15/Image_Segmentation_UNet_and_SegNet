@@ -62,7 +62,7 @@ Installation
 To set up the environment and run the notebook:
 
 Clone the Repository
-!git clone https://github.com/your_username/segmentation-unet-segnet.git
+!git clone https://github.com/elprofessor-15/Image_Segmentation_UNet_SegNet.git
 cd segmentation-unet-segnet
 
 Install Dependencies
